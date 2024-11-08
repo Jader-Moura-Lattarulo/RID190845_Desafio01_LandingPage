@@ -19,3 +19,22 @@
 #subtitle_header{
     font-size: 21px;
 }
+
+#highlight{
+    background-color: #F9F9F9;
+    height: 200px;
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.number_highlight{
+    font-size: 40px;
+}
+
+.txt_highlight{
+    font-size: 20px;
+}
+
+
