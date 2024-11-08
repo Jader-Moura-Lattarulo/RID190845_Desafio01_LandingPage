@@ -6,6 +6,9 @@ A página apresenta um layout moderno e funcional, focado em uma empresa fictíc
 ### Visite a página
 [Landing Page](https://landingpagearquiteturajader.netlify.app/)
 
+### Planilha de registro de informações
+[Planilha](https://docs.google.com/spreadsheets/d/1sN6XZLamvROQY29fgBh1-zAaR67VR_87TGKI7niwnDo/edit?gid=0#gid=0)
+
 ---
 
 ## Tabela de Conteúdos
