@@ -37,4 +37,19 @@
     font-size: 20px;
 }
 
+#history{
+    margin: 70px 0 70px 0;
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content:space-evenly;
+}
 
+#title_history{
+    font-size: 49px;
+    margin-bottom: 35px;
+}
+
+#txt_history{
+    font-size: 30px;
+}
