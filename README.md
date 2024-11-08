@@ -4,7 +4,7 @@ Este projeto é uma landing page desenvolvida como avaliação da matéria Intro
 A página apresenta um layout moderno e funcional, focado em uma empresa fictícia de arquitetura, com um design responsivo e interativo.
 
 ### Visite a página
-[Landing Page](https://landingpagedncjmdev.netlify.app/)
+[Landing Page](https://landingpagearquiteturajader.netlify.app/)
 
 ---
 
@@ -56,7 +56,7 @@ O projeto está hospedado na plataforma **Netlify**.
 O deploy foi feito automaticamente após a configuração do repositório. 
 Para visualizar a landing page, clique no link abaixo:
 
-- [Visite a Landing Page](https://landingpagedncjmdev.netlify.app/)
+- [Visite a Landing Page](https://landingpagearquiteturajader.netlify.app/)
 
 ---
 
